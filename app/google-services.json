@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "638466128886",
+    "firebase_url": "https://orangeportal-c9ac3.firebaseio.com",
+    "project_id": "orangeportal-c9ac3",
+    "storage_bucket": "orangeportal-c9ac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638466128886:android:8f8ed228ef8ef8cb",
+        "android_client_info": {
+          "package_name": "help.pawanchouhan.orangeportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638466128886-bqqh9mggcbvaq3a2ugq8qsvoud4kqaca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "help.pawanchouhan.orangeportal",
+            "certificate_hash": "9dbba8ee6d05e9da8e886ad054dfba2451c18bff"
+          }
+        },
+        {
+          "client_id": "638466128886-9mqjsd8g9ocu462ktgk1otqp8903c2h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAxsDPTeWB1swHJIgnz6eNZYFhSgtQqco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638466128886-9mqjsd8g9ocu462ktgk1otqp8903c2h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

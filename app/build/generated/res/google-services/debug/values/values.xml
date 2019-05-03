@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">638466128886-9mqjsd8g9ocu462ktgk1otqp8903c2h9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://orangeportal-c9ac3.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">638466128886</string>
+    <string name="google_api_key" translatable="false">AIzaSyCAxsDPTeWB1swHJIgnz6eNZYFhSgtQqco</string>
+    <string name="google_app_id" translatable="false">1:638466128886:android:8f8ed228ef8ef8cb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCAxsDPTeWB1swHJIgnz6eNZYFhSgtQqco</string>
+    <string name="google_storage_bucket" translatable="false">orangeportal-c9ac3.appspot.com</string>
+    <string name="project_id" translatable="false">orangeportal-c9ac3</string>
+</resources>

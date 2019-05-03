@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Orange Portal</string>
+
+    <string-array name="spinnerItems">
+        <item>choose any one category</item>
+        <item>Tent</item>
+        <item>Water Supply</item>
+        <item>Catering</item>
+        <item>Music</item>
+        <item>Printing</item>
+        <item>Decoration</item>
+    </string-array>
+
+
+</resources>

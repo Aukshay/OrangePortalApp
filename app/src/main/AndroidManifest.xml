@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="help.pawanchouhan.orangeportal">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/fire"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity
+            android:name=".RecyclerViewMain"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Tent"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".water"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".catering"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".music"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".printing"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".decoration"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".aboutus"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".loadingScreen" />
+        <activity
+            android:name=".Register_your_service"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".splash"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".contactus"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".feedback"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".login"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".signup"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".userProfile"
+            android:theme="@style/AppTheme"></activity>
+    </application>
+
+</manifest>
